@@ -8,5 +8,7 @@
             "email": "richardrobinsonx@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "prismic/php-sdk": "^3.4"
+    }
 }
