@@ -1,5 +1,5 @@
 {
-    "name": "Envisionet/LaravelPrismic",
+    "name": "envisionet/laravel-prismic",
     "description": "Laravel package to interact with the prismic.io PHP SDK",
     "license": "GPL-3.0",
     "authors": [
